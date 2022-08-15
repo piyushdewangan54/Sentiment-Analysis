@@ -11,5 +11,7 @@ Essentially, sentiment analysis (or opinion mining) is the approach that identif
 # Dataset Used
 
 Amazon.com is a treasure trove of product reviews and their review system is accessible across all channels presenting reviews in an easy-to-use format. The product reviewer submits a rating on a scale of 1 to 5 and provides own viewpoint according to the whole experience. 
+
 In this study, we analysed more than 400 thousand reviews of unlocked mobile phones sold on Amazon.com to find insights with respect to reviews, ratings, price and their relationships.
+
 You can download the dataset from [here](https://www.kaggle.com/code/jojushaji/sentimental-analysis-on-amazon-reviews/data)
